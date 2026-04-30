@@ -73,7 +73,7 @@ credit_scoring_sg/
 ### 3. Résultats
 | Métrique | Valeur |
 |----------|--------|
-| **AUC-ROC** | **~0.86** |
+| **AUC-ROC** | **~0.8395** |
 | Seuil de décision | 35% |
 | Données d'entraînement | ~120 000 clients |
 
