@@ -1,12 +1,8 @@
 """
 train_model.py
-──────────────
-Script d'entraînement du modèle de scoring crédit.
-À exécuter UNE SEULE FOIS après avoir téléchargé le dataset Kaggle.
-
 Dataset : Give Me Some Credit
-https://www.kaggle.com/competitions/GiveMeSomeCredit/data
-→ Télécharger cs-training.csv et le placer dans le dossier data/
+https://www.kaggle.com/competitions/GiveMeSomeCredit
+
 """
 
 import pandas as pd
