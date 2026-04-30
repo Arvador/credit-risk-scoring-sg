@@ -139,4 +139,4 @@ streamlit run app.py
 
 ## 📄 Licence
 
-MIT — Libre d'utilisation à des fins éducatives et professionnelles.
+Projet à ne pas recopier ni à des fins éducatives, ni professionnelles, ni pour toutes autres fins.
