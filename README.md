@@ -75,7 +75,7 @@ credit_scoring_sg/
 |----------|--------|
 | **AUC-ROC** | **~0.8395** |
 | Seuil de décision | 35% |
-| Données d'entraînement | ~150 000 clients |
+| Données d'entraînement | ~120 000 clients |
 
 ### 4. Déploiement
 - Application **Streamlit** avec scoring en temps réel
